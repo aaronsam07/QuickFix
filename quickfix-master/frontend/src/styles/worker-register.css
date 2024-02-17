@@ -1,0 +1,49 @@
+.bg-indigo {
+  background-color: var(--secondary-color);
+}
+
+.bg-indigo {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.bg-white {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.card-registration {
+  width: 75rem;
+}
+
+.worker-register {
+  margin-right: 200px;
+  margin-left: -100px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+  /* padding: 0; */
+}
+.disable-scroll {
+  overflow: hidden;
+}
+
+body {
+  padding-top: 10px;
+}
+
+.card-registration input[type="text"],
+.card-registration input[type="email"],
+.card-registration input[type="password"],
+.card-registration select {
+  background-color: white;
+}
+.bg-color {
+  background-color: #fff7f7;
+}
+
+.ppp {
+  color: var(--heading-color);
+  text-decoration: none;
+  margin-left: 5px;
+  font-weight: 500;
+}

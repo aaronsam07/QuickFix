@@ -1,0 +1,39 @@
+.login span i{
+    font-size: 4rem;
+    color: var(--secondary-color);
+}
+
+.user__login {
+    padding-top: 100px;
+}
+
+
+.worker__login {
+    padding-top: 20px;
+}
+
+.user__login .btn{
+    height: 100px;
+    width: 600px;
+    /* padding-top: 200px; */
+}
+
+.worker__login .btn{
+    height: 100px;
+    width: 600px;
+    font-size: 3rem;
+}
+
+.user__login .btn h1{
+    font-size: 3rem;
+    font-weight: 600;
+    color: #fff;
+    font-family: var(--font-name);
+}
+
+.worker__login .btn h1{
+    font-size: 3rem;
+    font-weight: 600;
+    color: #fff;
+    font-family: var(--font-name);
+}
